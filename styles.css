@@ -58,7 +58,7 @@ header li:last-child{  /* último filho do link dos menus */
 
 /*HERO*/
 .hero{
-	background-image: url(../_img/hero.jpg);
+	background-image: url(/hero.jpg);
 	background-size: cover;
 	min-height: 100vh; /* viewport heat equivale a 100% unidade relativa  */
 	color: #fff;
