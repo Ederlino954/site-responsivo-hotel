@@ -1,2 +1,2 @@
 # site-responsivo-hotel
-site simples e estático responsivo
+Site simples e estático responsivo
